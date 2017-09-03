@@ -1,0 +1,34 @@
+{
+    "author": "basket.pavlenko@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "weather-app",
+    "pebble": {
+        "displayName": "Weather App",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/weather_icon.png",
+                    "name": "IM_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "79b2a6da-45b2-4356-b5e6-e4c3abc9b164",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
